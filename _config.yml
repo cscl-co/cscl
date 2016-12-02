@@ -17,12 +17,11 @@ highlighter: rouge
 title: "CSCL"
 description: > # this means to ignore newlines until "email:"
 
-
 email: hello@cscl.co
 #blog logo
-logo: "cscl.co/assets/images/cscl_logo.png"
+logo: "/assets/images/cscl_logo.png"
 # blog cover
-cover: "cscl.co/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'S.F.'
 author: 'S.F.'
@@ -32,7 +31,7 @@ paginate:	6
 paginate_path: "/blog/page:num"
 # permalink: /:categories/:year/:month/:day/:title 
 
-url: "https://solenfeyissa.github.io/cscl.co/" # the base hostname & protocol for your site
+url: "http://cscl.co" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@ssolen'
@@ -64,7 +63,7 @@ social:
 #    share_link:
 
   - icon: rss
-    url:  https://cscl-co.github.io/cscl/feed.xml
+    url:  http://cscl.co/feed.xml
     desc: Subscribe
     share_url:
     share_title:
