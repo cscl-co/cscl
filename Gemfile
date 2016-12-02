@@ -11,4 +11,6 @@ gem 'jekyll-smartify'
 gem 'jekyll-autolink_email'
 gem 'jekyll-minifier'
 gem 'jekyll-mentions'
+gem 'jekyll-seo-tag'
+gem 'jekyll-tagging'
 gem 'jekyll-compose', group: [:jekyll_plugins]
