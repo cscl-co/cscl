@@ -1,12 +1,17 @@
 # Build settings
 gems:
   - jemoji
-  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-scholar
+  - jekyll-smartify
+
+markdown: kramdown
+highlighter: rouge
 
 # Site settings
 title: "CSCL"
 description: > # this means to ignore newlines until "email:"
-   A blog
+
 
 email: hello@cscl.co
 #blog logo
@@ -14,11 +19,13 @@ logo: "cscl.co/assets/images/cscl_logo.png"
 # blog cover
 cover: "cscl.co/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Solen F.'
-author: 'Solen F.'
+name: 'S.F.'
+author: 'S.F.'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
+paginate_path: "/blog/page:num"
+permalink: /:categories/:year/:month/:day/:title 
 
 url: "https://solenfeyissa.github.io/cscl.co/" # the base hostname & protocol for your site
 baseurl: ""
@@ -44,12 +51,26 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/solenfeyissa
-    desc:	Fork me on github
+#    icon:	github
+#    url:	https://github.com/solenfeyissa
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
+
+  - icon: rss
+    url:  https://cscl-co.github.io/cscl/feed.xml
+    desc: Subscribe
     share_url:
     share_title:
     share_link:
+
+  - icon: envelope
+    url:  mailto:hello@cscl.co
+    desc: Email
+    share_url:
+    share_title:
+    share_link:   
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
