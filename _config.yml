@@ -5,6 +5,10 @@ gems:
   - jekyll-sitemap
   - jekyll-scholar
   - jekyll-smartify
+  - jekyll-mentions
+
+jekyll-mentions:
+  base_url: https://twitter.com
 
 markdown: kramdown
 highlighter: rouge
