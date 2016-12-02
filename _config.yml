@@ -1,6 +1,7 @@
 # Build settings
 gems:
   - jemoji
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-scholar
   - jekyll-smartify
@@ -23,9 +24,9 @@ name: 'S.F.'
 author: 'S.F.'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	6
 paginate_path: "/blog/page:num"
-permalink: /:categories/:year/:month/:day/:title 
+# permalink: /:categories/:year/:month/:day/:title 
 
 url: "https://solenfeyissa.github.io/cscl.co/" # the base hostname & protocol for your site
 baseurl: ""
