@@ -31,22 +31,13 @@ paginate:	6
 paginate_path: "/blog/page:num"
 # permalink: /:categories/:year/:month/:day/:title 
 
-url: "http://cscl.co/blog" # the base hostname & protocol for your site
-baseurl: "/blog"
+url: "http://cscl.co" # the base hostname & protocol for your site
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@ssolen'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
-
-  # Settings for analytics helper
-  # Set 'provider' to the analytics provider you want to use.
-  # Set 'provider' to false to turn analytics off globally.
-  #        
-  analytics :
-    provider : google 
-    google : 
-        tracking_id : '#'
 
 # social icons and sharing options
 social:
