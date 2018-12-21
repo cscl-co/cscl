@@ -13,4 +13,8 @@ gem 'jekyll-minifier'
 gem 'jekyll-mentions'
 gem 'jekyll-seo-tag'
 gem 'jekyll-tagging'
-gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-compose'
+gem 'jekyll-paginate'
+gem 'bibsonomy-jekyll'
+gem 'jekyll-watch'
+gem 'jekyll-admin', group: [:jekyll_plugins]
