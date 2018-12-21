@@ -34,19 +34,19 @@ paginate_path: "/blog/page:num"
 url: "http://cscl.co" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@ssolen'
+#twitter_handle: '@twhandle'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/ssolen
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+#  - icon:	twitter
+#    url:	https://twitter.com/
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+ #   share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -56,7 +56,7 @@ social:
 #    share_link: "&amp;u="
 
 #    icon:	github
-#    url:	https://github.com/solenfeyissa
+#    url:	https://github.com/
 #    desc:	Fork me on github
 #    share_url:
 #    share_title:
