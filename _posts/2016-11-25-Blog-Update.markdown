@@ -27,6 +27,4 @@ Est mollit ut nostrud picanha voluptate shankle kielbasa eiusmod pancetta short 
 
 Excepteur cow tenderloin filet mignon. Doner ham hock dolor, cupim nulla non chuck sint et. Aliqua esse in jerky qui tempor est deserunt. Rump veniam labore est lorem laborum sunt biltong picanha in et.
 
-<img src="https://dl.dropboxusercontent.com/u/6910708/P1040920.jpg" alt="" height="" width="100%">
-
 Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
