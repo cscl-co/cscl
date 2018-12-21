@@ -11,7 +11,7 @@ Tongue pig qui swine, hamburger leberkas biltong velit irure. Incididunt nisi pr
 
 <div class="side-note">
 
-<img src="https://dl.dropboxusercontent.com/u/6910708/P1040920.jpg" alt="" height="" width="100%">
+<img src="http://via.placeholder.com/250x250" alt="" height="" width="100%">
 
 Ullamco velit pork chicken. Aute dolore elit strip steak exercitation. Jowl pancetta beef ribs, sunt deserunt pork strip steak pork chop. Veniam meatloaf burgdoggen filet mignon, shoulder et magna shank swine excepteur fugiat. Jowl prosciutto sed, elit dolor deserunt consequat venison pork chop id. Pork belly strip steak hamburger bresaola.
 
