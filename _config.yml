@@ -6,6 +6,12 @@ gems:
   - jekyll-scholar
   - jekyll-smartify
   - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-scholar
+  - bibsonomy-jekyll
+  - jekyll-sitemap
+  - jekyll-watch
+  - jekyll-admin
 
 jekyll-mentions:
   base_url: https://twitter.com
