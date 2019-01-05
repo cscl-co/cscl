@@ -9,7 +9,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-scholar
   - bibsonomy-jekyll
-  - jekyll-sitemap
   - jekyll-watch
   - jekyll-admin
 
